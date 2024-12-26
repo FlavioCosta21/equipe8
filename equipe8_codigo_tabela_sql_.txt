@@ -1,3 +1,5 @@
+--tabela final importada para BD
+
 DROP TABLE IF EXISTS vendas;
 DROP TABLE IF EXISTS clientes;
 DROP TABLE IF EXISTS produtos;
